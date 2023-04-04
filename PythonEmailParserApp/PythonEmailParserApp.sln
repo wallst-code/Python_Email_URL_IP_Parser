@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonEmailParser", "PythonEmailParser\PythonEmailParser.pyproj", "{1A8ED384-CA58-41D6-941E-3461556AAC17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A8ED384-CA58-41D6-941E-3461556AAC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8ED384-CA58-41D6-941E-3461556AAC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C8031D3-D4F6-470B-9C9A-0B55F9E5A2F6}
+	EndGlobalSection
+EndGlobal
