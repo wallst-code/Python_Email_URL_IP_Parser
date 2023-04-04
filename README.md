@@ -1,7 +1,7 @@
 # Python_Email_URL_IP_Parser
 A python program that takes in an .eml and pulls the URLs and IP addresses out and will provide a defanged list as well as a fanged list in a text file. 
 
-Note - its pretty rough - and needs work. 
+Note - its pretty rough - and needs work. Python 3
 
 No interface. Just change the file name as in the picture. 
 It assumes that your .eml is in your project folder. 
